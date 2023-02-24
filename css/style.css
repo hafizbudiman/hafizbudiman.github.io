@@ -166,3 +166,8 @@ section h4 {
 	background-color: #191919;
 	font-size: 30px;
 }
+@keyframes puterin {
+	100% {
+		transform: rotate(360deg);
+	}
+}
